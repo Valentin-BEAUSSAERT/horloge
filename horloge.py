@@ -37,3 +37,4 @@ while True:
     verifier_alarme()
 
     time.sleep(1)
+#
